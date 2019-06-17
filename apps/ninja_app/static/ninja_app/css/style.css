@@ -1,0 +1,27 @@
+form{
+    display: inline-block;
+    margin: 5px 10px;
+    height: 200px;
+    width: 292px;
+    padding: 30px;
+}
+h4, .golds{
+    text-align: center;
+}
+.btn{
+    margin:0 auto;
+    display:block;
+}
+
+.footer{
+    height: 200px;
+    margin:10px;
+}
+
+.green{
+    color:green;
+}
+
+.red{
+    color:red;
+}
